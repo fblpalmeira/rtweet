@@ -4,7 +4,7 @@
 
 Extract data from @30DayChartChall Twitter account.
 
-- [Script `.R`]()
+- [Script `.R`](https://github.com/fblpalmeira/rtweet/blob/main/data/twitter_mining_30daychartchallenge.R)
 
 <img src="https://github.com/fblpalmeira/rtweet/blob/main/data/30DayChartChall2.png">
 
