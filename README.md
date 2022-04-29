@@ -6,9 +6,7 @@ Extract data from @30DayChartChall Twitter account.
 
 - [Script `.R`]()
 
-
-
-<img src="">
+<img src="https://github.com/fblpalmeira/rtweet/blob/main/data/30DayChartChall2.png">
 
 Reference:
 
